@@ -3,9 +3,7 @@ import React from 'react'
 export default function page() {
   return (
     <div>
-      <form action="">
-        
-      </form>
+      <h1>blog</h1>
     </div>
   )
 }

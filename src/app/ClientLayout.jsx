@@ -1,4 +1,5 @@
 "use client";
+import Header from '@/components/Header';
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 import { usePathname } from "next/navigation";
@@ -10,7 +11,8 @@ export default function ClientLayout({ children }) {
 
   return (
     <>
-      <main>{children}</main>
+          {!isDashboard && <Header />}
+           <main>{children}</main>
     </>
   );
 }
