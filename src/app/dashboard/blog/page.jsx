@@ -9,6 +9,11 @@ export default function page() {
       <h3>bogo</h3>
       <h3>blog page </h3>
       <h2></h2>
+      <table>
+        <header>
+          
+        </header>
+      </table>
     </div>
   )
 }
