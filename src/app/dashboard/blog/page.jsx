@@ -8,6 +8,7 @@ export default function page() {
       <h2>e5hherthjrwnj</h2>
       <h3>bogo</h3>
       <h3>blog page </h3>
+      <h2></h2>
     </div>
   )
 }
