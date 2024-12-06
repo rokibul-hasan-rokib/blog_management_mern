@@ -7,6 +7,7 @@ export default function page() {
       <h1>tghis isblog page</h1>
       <h2>e5hherthjrwnj</h2>
       <h3>bogo</h3>
+      <h3>blog page </h3>
     </div>
   )
 }
